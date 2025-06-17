@@ -1,2 +1,2 @@
-# pdf-hosting
+# pdf-uploads
 PDF uploaded here
